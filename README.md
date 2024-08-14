@@ -4,11 +4,11 @@ Soy un entuciasta analista programador con más de 3 años en la industria TI. M
 
 ## Mis Habilidades 
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-- SQL: .
-- Marketing Cloud: 
-- AirFlow:
-- Jira:
-- Bitbucket: 
+- ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white)
+- ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+- ![AirFlow](https://img.shields.io/badge/Apache_Airflow-000AAA?style=for-the-badge&logo=apacheairflow&logoColor=white)
+- ![Jira](https://img.shields.io/badge/jira-000AAA?style=for-the-badge&logo=jirasoftware&logoColor=white)
+- ![Bitbucket](https://img.shields.io/badge/bitbucket-0052cc?style=for-the-badge&logo=bitbucket&logoColor=white) 
 
 ## Lo que Estoy Descubriendo
 - Desarrollo Frontend: Estoy aprendiendo a diseñar y desarrollar interfaces de usuario utilizando HTML, CSS y JavaScript.
