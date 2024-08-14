@@ -1,12 +1,16 @@
 #👋 Hola, soy Sebastian Tapia
 
-Soy un entuciasta analista programador con más de 3 años en la industria TI. Me encanta explorar nuevas tecnologías y crear soluciones creativas.
+Soy un analista programador titulado por el Instituto Santo Tomás en 2022, con más de 3 años de experiencia en la industria de tecnología de la información. 
+
+Mi conjunto de habilidades incluye el manejo de herramientas como Python, SQL con Teradata, Airflow, Marketing Cloud, Jira y Bitbucket. 
+
+Destaco por mi rápida curva de aprendizaje y mi capacidad para adaptarme a diversos proyectos.
 
 ## Mis Habilidades 
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 - ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white)
 - ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-- ![AirFlow](https://img.shields.io/badge/Apache_Airflow-000AAA?style=for-the-badge&logo=apacheairflow&logoColor=white)
+- ![AirFlow](https://img.shields.io/badge/Apache_Airflow-a5a5a5?style=for-the-badge&logo=apacheairflow&logoColor=white)
 - ![Jira](https://img.shields.io/badge/jira-000AAA?style=for-the-badge&logo=jirasoftware&logoColor=white)
 - ![Bitbucket](https://img.shields.io/badge/bitbucket-0052cc?style=for-the-badge&logo=bitbucket&logoColor=white) 
 
