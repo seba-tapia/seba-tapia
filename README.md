@@ -1,50 +1,50 @@
-#👋 Hola, soy Sebastian Tapia
+# Hi, I'm Sebastian Tapia 👋
 
-Soy un analista programador titulado por el Instituto Santo Tomás en 2022, con más de 3 años de experiencia en la industria de tecnología de la información. 
+Data Analyst based in Auckland, New Zealand | Software Analyst graduate (Instituto Santo Tomás, 2022) with 3+ years in the IT industry, now focused on data analytics.
 
-Mi conjunto de habilidades incluye el manejo de herramientas como Python, SQL con Teradata, Airflow, Marketing Cloud, Jira y Bitbucket. 
+I work across the full data pipeline — from SQL and ETL orchestration to building and evaluating machine learning models — and I'm currently looking for data/analytics opportunities in New Zealand.
 
-Destaco por mi rápida curva de aprendizaje y mi capacidad para adaptarme a diversos proyectos.
+---
 
-## Mis Habilidades 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-- ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white)
-- ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-- ![AirFlow](https://img.shields.io/badge/Apache_Airflow-a5a5a5?style=for-the-badge&logo=apacheairflow&logoColor=white)
-- ![Jira](https://img.shields.io/badge/jira-000AAA?style=for-the-badge&logo=jirasoftware&logoColor=white)
-- ![Bitbucket](https://img.shields.io/badge/bitbucket-0052cc?style=for-the-badge&logo=bitbucket&logoColor=white) 
+## 🔍 Featured project
 
-## Lo que Estoy Descubriendo
-- Desarrollo Frontend: Estoy aprendiendo a diseñar y desarrollar interfaces de usuario utilizando HTML, CSS y JavaScript.
-- Desarrollo Backend: Estoy explorando cómo crear API RESTful, gestionar bases de datos y escribir lógica de negocio con Django.
-- Integración de Bootstrap: Me emociona usar Bootstrap para que mis aplicaciones sean accesibles y se vean geniales en todos los dispositivos.
-- Optimización de Rendimiento: Estoy descubriendo cómo hacer que mis aplicaciones sean más rápidas y eficientes.
-- Seguridad: Estoy aprendiendo sobre las mejores prácticas para proteger los datos y la privacidad de los usuarios.
+**[Credit Card Fraud Detection](https://github.com/seba-tapia/credit-card-fraud-detection)** — a binary classification pipeline for detecting fraud on an extremely imbalanced dataset (~0.17% fraud). Covers EDA, class-imbalance handling (SMOTE / class weighting), model selection via cross-validation (Logistic Regression, Random Forest, XGBoost), hyperparameter tuning, cost-based threshold selection, and SHAP interpretability. Available in [English](https://github.com/seba-tapia/credit-card-fraud-detection/blob/main/README.md) and [Spanish](https://github.com/seba-tapia/credit-card-fraud-detection/blob/main/README.es.md).
 
-## 📫 Contacto
+---
 
-- Puedes contactarme a través de mi correo electrónico: **<seba.tapiens@gmail.com>**
-- Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/seba-tapia/)**
+## 🧰 Skills
 
-### 🎨 Frontend
+**Data Analysis & Machine Learning**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+**Data Engineering & Platforms**
+![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-a5a5a5?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
-### 🔨 Backend
+**Tools & Workflow**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
-![Javascript](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+---
 
-### 📎 Herramientas
+## 📈 Currently focused on
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Dbeaver](https://img.shields.io/badge/DBeaver-EE0000?style=for-the-badge&logo=dbeaver&logoColor=white) 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) 
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+- Building a portfolio of end-to-end data analysis / machine learning projects
+- Deepening my skills in statistical modeling, model evaluation, and interpretability (SHAP)
+- Applying to data analyst / data & analytics roles across New Zealand
+
+---
+
+## 📫 Get in touch
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/seba-tapia)
+- 📧 seba.tapiens@gmail.com
+- 📍 Based in Auckland, New Zealand — open to relocating within NZ
