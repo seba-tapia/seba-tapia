@@ -1,6 +1,6 @@
 # Hi, I'm Sebastian Tapia 👋
 
-Data Analyst based in Auckland, New Zealand | Higher Technician Diploma in Analyst Programming (Instituto Santo Tomás, 2022) with 3+ years in the IT industry, now focused on data analytics.
+Data Analyst based in Auckland, New Zealand | Analyst Programmer graduate (Instituto Santo Tomás, 2022) with 3+ years in the IT industry, now focused on data analytics.
 
 I work across the full data pipeline — from SQL and ETL orchestration to building and evaluating machine learning models — and I'm currently looking for data/analytics opportunities in New Zealand.
 
