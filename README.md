@@ -8,8 +8,9 @@ I work across the full data pipeline — from SQL and ETL orchestration to build
 
 ## 🔍 Featured project
 
-**[Credit Card Fraud Detection](https://github.com/seba-tapia/credit-card-fraud-detection)** — a binary classification pipeline for detecting fraud on an extremely imbalanced dataset (~0.17% fraud). Covers EDA, class-imbalance handling (SMOTE / class weighting), model selection via cross-validation (Logistic Regression, Random Forest, XGBoost), hyperparameter tuning, cost-based threshold selection, and SHAP interpretability. Available in [English](https://github.com/seba-tapia/credit-card-fraud-detection/blob/main/README.md) and [Spanish](https://github.com/seba-tapia/credit-card-fraud-detection/blob/main/README.es.md).
+**[Credit Card Fraud Detection](https://github.com/seba-tapia/credit-card-fraud-detection)** — End-to-end project that identifies which telecom customers are most at risk of leaving (churn), groups them into actionable segments, and exposes that information through an API and an interactive dashboard. Available in [English](https://github.com/seba-tapia/credit-card-fraud-detection/blob/main/README.md) and [Spanish](https://github.com/seba-tapia/credit-card-fraud-detection/blob/main/README.es.md).
 
+**[Telco Customer Segmentation & Churn Prediction](https://github.com/seba-tapia/telco-churn-segmentation)** — a binary classification pipeline for detecting fraud on an extremely imbalanced dataset (~0.17% fraud). Covers EDA, class-imbalance handling (SMOTE / class weighting), model selection via cross-validation (Logistic Regression, Random Forest, XGBoost), hyperparameter tuning, cost-based threshold selection, and SHAP interpretability. Available in [English](https://github.com/seba-tapia/telco-churn-segmentation/blob/main/README.md) and [Spanish](https://github.com/seba-tapia/telco-churn-segmentation/blob/main/README.es.md).
 ---
 
 ## 🧰 Skills
